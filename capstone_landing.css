@@ -1,0 +1,55 @@
+body{
+  background-color: #080142;
+  text-align: center;
+  color : white;
+  font-family: 'Courgette', cursive;
+  border: 30px solid #036f82;
+  border-top: 0px;
+  margin: 0px;
+}
+p{
+
+  padding: 10px 50px 0px 50px;
+}
+
+
+.form{
+  padding: 10px 0px 20px 0px;
+  text-align: center;
+  font-size: 1.25em;
+  margin: 10px;
+}
+#fn{
+  height:30px ;
+  width: 30%;
+  margin: 5px;
+}
+#ln{
+  height: 30px;
+  width: 30%;
+  margin: 5px;
+}
+#email{
+  width: 30%;
+  height: 30px;
+  margin: 5px;
+}
+#passwd{
+  height: 30px;
+  width: 30%;
+  margin: 5px;
+}
+#submit{
+  height: 30px;
+  width : 30%;
+  background: yellow;
+  border-radius: 10px;
+  font-size: 1em;
+  font-family: fantasy;
+  margin: 10px;
+}
+a{
+  text-decoration: none;
+  color: white;
+
+}
